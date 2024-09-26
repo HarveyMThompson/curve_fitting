@@ -2,11 +2,6 @@
 import numpy as np
 import streamlit as st
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
-from matplotlib import cm
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from matplotlib.backends.backend_tkagg import NavigationToolbar2Tk
-from matplotlib.ticker import LinearLocator, FormatStrFormatter
 from matplotlib.figure import Figure
 
 ##############################################################################
